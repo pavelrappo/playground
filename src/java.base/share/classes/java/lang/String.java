@@ -2821,6 +2821,8 @@ public final class String
      *
      * @return  the stream of lines extracted from this string
      *
+     * A new development in mainline.
+     *
      * @since 11
      */
     public Stream<String> lines() {

@@ -2746,7 +2746,8 @@ public final class String
     /**
      * Returns a string whose value is this string, with all trailing
      *
-     * This line is to test SKARA-2312.
+     * This line is to test SKARA-2312. Okay, let's add one more "feature"
+     * commit.
      *
      * {@linkplain Character#isWhitespace(int) white space} removed.
      * <p>

@@ -2799,7 +2799,7 @@ public final class String
 
     /**
      * Returns a stream of lines extracted from this string,
-     * separated by line terminators.
+     * separated by line terminators. EVIL
      * <p>
      * A <i>line terminator</i> is one of the following:
      * a line feed character {@code "\n"} (U+000A),
@@ -2824,6 +2824,8 @@ public final class String
      *           by faster search of new line terminators.
      *
      * @return  the stream of lines extracted from this string
+     *
+     * A new development in mainline.
      *
      * @since 11
      */

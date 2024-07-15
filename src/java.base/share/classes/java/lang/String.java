@@ -2795,7 +2795,7 @@ public final class String
 
     /**
      * Returns a stream of lines extracted from this string,
-     * separated by line terminators.
+     * separated by line terminators. EVIL MERGE CONTENT
      * <p>
      * A <i>line terminator</i> is one of the following:
      * a line feed character {@code "\n"} (U+000A),

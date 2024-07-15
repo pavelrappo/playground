@@ -2780,7 +2780,7 @@ public final class String
     /**
      * Returns {@code true} if the string is empty or contains only
      *
-     * A different line to test SKARA-2312. Here's a conflict!
+     * A different line to test SKARA-2312. Well, we resolved the conflict.
      *
      * {@linkplain Character#isWhitespace(int) white space} codepoints,
      * otherwise {@code false}.

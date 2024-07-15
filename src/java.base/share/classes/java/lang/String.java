@@ -2776,7 +2776,7 @@ public final class String
     /**
      * Returns {@code true} if the string is empty or contains only
      *
-     * A different line to test SKARA-2312.
+     * A different line to test SKARA-2312. This is now a longer line.
      *
      * {@linkplain Character#isWhitespace(int) white space} codepoints,
      * otherwise {@code false}.
